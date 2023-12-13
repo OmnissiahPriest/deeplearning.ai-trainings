@@ -241,7 +241,7 @@ def get_completion(prompt, model="gpt-3.5-turbo"):
 # print(response)
 
 # prompt 10
-
+# Hallucinations
 prompt = f"""
 Tell me about AeroGlide UltraSlim Smart Toothbrush by Boie
 """
